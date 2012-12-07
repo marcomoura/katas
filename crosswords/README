@@ -1,0 +1,20 @@
+Crosswords
+
+For this quiz let’s tackle a classic problem. I’ve seen it just about every-
+where in some form or another, but I believe Donald E. Knuth may have
+first made it a popular challenge.
+The quiz is to lay out crossword puzzles. A puzzle layout will be pro-
+vided in a file, with the file name passed as a command-line argument.
+
+The layout will be formatted as such:
+
+X _ _ _ _ X X
+_ _ X _ _ _ _
+_ _ _ _ X _ _
+_ X _ _ X X X
+_ _ _ X _ _ _
+X _ _ _ _ _ X
+
+X s denote filled-in squares, and underscores are where a puzzle worker
+would enter letters. Each row of the puzzle is on a new line. The spaces
+are a readability tool and should be ignored by your program. 
