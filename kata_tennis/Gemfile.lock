@@ -1,0 +1,9 @@
+GEM
+  specs:
+    state_machine (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  state_machine
